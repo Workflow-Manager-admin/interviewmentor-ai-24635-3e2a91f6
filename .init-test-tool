@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/interviewmentor-ai-24635-3e2a91f6/interview_mentor_web_app"
+}
