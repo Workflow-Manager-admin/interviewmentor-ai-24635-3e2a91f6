@@ -32,3 +32,6 @@ ERROR in ./src/index.js 7:0-44
 Module not found: Error: Can't resolve './MainContainer' in '/home/kavia/workspace/code-generation/interviewmentor-ai-24635-3e2a91f6/interview_mentor_web_app/src'
 
 webpack compiled with 1 error
+Compiling...
+Compiled successfully!
+webpack compiled successfully
